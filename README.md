@@ -1,4 +1,4 @@
-# Flujo de análisis de marketing de afiliados (Orange Data Mining)
+# Flujo Visual de Análisis de Datos (Orange Data Mining)
 
 Prototipo en **Orange Data Mining** que junta dos fuentes habituales del marketing de afiliados: el **reporte de ventas** del programa de afiliados de una tienda en línea y las **analíticas de publicaciones** de la red social X. Con ellas limpia los datos, asocia cada publicación con el producto que menciona y responde cinco preguntas de análisis, que se listan más abajo.
 
