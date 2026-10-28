@@ -1,0 +1,24 @@
+# Datos: se ignora todo lo de datos/ excepto lo sintetico (archivos con SINTETICO en el nombre)
+/datos/**
+!/datos/**/
+!/datos/**/*SINTETICO*
+
+# Tablas que dejan los modulos (pueden contener datos reales)
+/intermedios/*.pkl
+
+# Varios
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.ows.bak
+*.swp
+*.ows.swp*
+
+# Documentos que no se suben por ahora
+/docs/guia_de_prueba.md
+/docs/referencia_de_ajustes_P2_a_P5.md
+docs/img/fig_mod1.png
+docs/img/fig_modulos.png
+docs/img/fig_preguntas.png
+docs/documentacion_tecnica.docx
